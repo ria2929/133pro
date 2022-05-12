@@ -1,0 +1,52 @@
+#status
+{
+font-size: 10px;
+width: 400px;
+background-color: white;
+color: black;
+font-weight: bold;
+
+}
+
+body
+{
+   background-size: cover;
+   background-position: center;
+}
+a
+{
+font-size: 10px ;
+width: 400px;
+background-color: white;
+color: black;
+font-weight: bold;
+}
+
+#shoe
+{
+font-size: 10px ;
+width: 400px;
+background-color: white;
+color: black;
+font-weight: bold;
+
+}
+
+#back
+{
+font-size: 10px ;
+width: 400px;
+background-color: white;
+color: black;
+font-weight: bold;
+
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+
+
